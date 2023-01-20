@@ -3,7 +3,7 @@
 ## Problemáticas
 
 #### Fin respuesta
-
+Luis Mora y Steven Cuenca
 ***
 
 ### Problema 01
